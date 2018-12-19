@@ -1,0 +1,8 @@
+{
+  "name": "ws.c-web-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/enkhi77/ws.c-web-base.git",
+  "author": "Wes Song <wes.song@gmail.com>",
+  "license": "MIT"
+}
